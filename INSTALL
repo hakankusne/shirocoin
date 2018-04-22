@@ -1,0 +1,9 @@
+Building shirocoin
+
+See doc/readme-qt.rst for instructions on building shirocoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of shirocoin.
+
+See doc/build-*.txt for instructions on building shirocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of shirocoin.
